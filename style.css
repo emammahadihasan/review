@@ -1,3 +1,10 @@
 #wellcome{
     color: orange;
 }
+.top{
+    width: 500px;
+}
+
+.half-width img{
+    width: 100%;
+}
