@@ -13,7 +13,7 @@ body{
 }
 .half-width img{
     width: 100%;
-    padding-left: 20%;
+    
 }
 .download{
     text-decoration: none;
@@ -88,3 +88,71 @@ section{
 .two img{
     width: 100%;
     }
+#two{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 25px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+.two-dream{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.three{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.three img{
+    width: 100%;
+}
+.three-top{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+#three{
+    text-decoration: none;
+    background-image: linear-gradient( lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 45px;
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 70%;
+    background-color: white;
+
+}
+.expriences{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#hello{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato) ;
+    border-image-slice: 1;
+}
+#hi{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan) ;
+    border-image-slice: 1;
+}
+
+footer P{
+    text-align: center;
+    font-size: small;
+}
